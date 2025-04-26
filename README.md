@@ -1,6 +1,7 @@
-# 🛒 Fastest-Shop: E-commerce 프로젝트
 
-**Fastest-Shop**은 드로우(Draw), 래플(Raffle), 오픈런(Open-Run)과 같은 이커머스 선착순 구매 기능을 제공하는 온라인 쇼핑몰 프로젝트입니다. 마이크로서비스 아키텍처(MSA)를 기반으로 유연한 확장성과 유지보수성을 갖춘 프로젝트입니다.
+![istockphoto-1758173843-612x612](https://github.com/user-attachments/assets/a5b01cb8-8f91-4e49-b189-3c8ae804e1e4)
+
+**Cheeta**는 미끼상품을 통해 사람들의 구매 욕구를 촉진시키는 이커머스 플랫폼입니다.
 
 ---
 
